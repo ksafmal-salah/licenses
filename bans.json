@@ -1,8 +1,7 @@
 {
-  "licenses": [
-    {
-      "ip": "1.1.1.1",
-      "serverName": "KH9 Server"
-    }
-  ]
+  "test-key-123": {
+    "active": true,
+    "server_ip": "",
+    "product": "تجربة"
+  }
 }
