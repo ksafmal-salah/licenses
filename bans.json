@@ -1,7 +1,7 @@
 {
   "test-key-123": {
     "active": true,
-    "server_ip": "",
+    "server_ip": "2.57.19.47",
     "product": "test-script"
   },
   "salah-key-999": {
