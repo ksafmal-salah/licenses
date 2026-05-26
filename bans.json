@@ -1,12 +1,7 @@
 {
   "test-key-123": {
     "active": true,
-    "server_ip": "2.57.19.47",
-    "product": "test-script"
-  },
-  "salah-key-999": {
-    "active": true,
-    "server_ip": "192.168.1.100",
-    "product": "police-garage"
+    "server_ip": "",
+    "product": "test"
   }
 }
